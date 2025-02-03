@@ -1,1 +1,2 @@
 vulhub/thinkphp:5.0.23
+vulhub/solr:8.11.0
