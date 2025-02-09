@@ -1,3 +1,4 @@
 vulhub/thinkphp：5.0.23
 vulhub/solr：8.11.0
 vulhub/shiro：1.2.4
+vulhub/weblogic:10.3.6.0-2017
